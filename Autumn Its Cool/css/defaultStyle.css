@@ -12,16 +12,18 @@ body {
 }
 
 @media (max-width: 640px) {
-  .slider{
+  .slider {
     height: 100vh;
     flex-direction: column;
   }
-  .item{
+
+  .item {
     width: 100%;
     user-select: none;
     cursor: none;
   }
-  .item:hover{
+
+  .item:hover {
     flex-grow: 30%;
   }
 }
