@@ -2,7 +2,7 @@
  
 Сайт про осень с интересной фичей как у Summer Its Cool
 
-
+![2342 — копия](https://user-images.githubusercontent.com/56477695/116461217-abf9a400-a870-11eb-84f2-143833e02f49.jpg)
 
 Portfloio-2 {
 
