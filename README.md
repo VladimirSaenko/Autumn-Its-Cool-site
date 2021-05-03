@@ -1,6 +1,4 @@
 # Autumn-Its-Cool-site
- 
-Сайт про осень с интересной фичей как у Summer Its Cool
 
 ![www](https://user-images.githubusercontent.com/56477695/116469006-414d6600-a87a-11eb-9957-e1c1135cbd76.jpg)
 
