@@ -1,6 +1,6 @@
 # Autumn-Its-Cool-site
 
-![3](https://user-images.githubusercontent.com/56477695/235455918-3e27edf4-41fc-454c-afa6-6fb5181d50ad.jpg)
+![image](https://github.com/user-attachments/assets/ceddbbe4-a284-4cb6-a987-0042054341f0)
 
 ## All Seasons of Year:
 
